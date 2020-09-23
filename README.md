@@ -1,5 +1,5 @@
 # SimpleContactForm
  .NetCore Simple Contact Form
 <br/>
-<img src = "https://github.com/kargarf/SimpleContactForm/issues/1#issue-707295264" />
+<img src = "https://user-images.githubusercontent.com/15342353/94009065-98eb9680-fdac-11ea-9087-1ecb6ced53be.png" />
 <br/>
